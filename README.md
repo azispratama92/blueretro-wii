@@ -1,6 +1,8 @@
 # blueretro-wii
 Worklog of internal and WiiMote installations of BlueRetro on Nintendo Wii and Wii U consoles: 
 
+![Alt text](titik%20solder%20kabel%20blueretro%20mods%20internal.jpg)
+
 Deskripsi project (dalam bahasa Indonesia): 
 
 Repository ini saya buat sebagai catatan modifikasi konsol wii menggunakan perangkat ESP32 dan Firware Blueretro. 
